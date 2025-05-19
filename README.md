@@ -2,7 +2,7 @@
 
 Unsupervised News Topic Clustering using Deep Embedded Clustering (DEC) and BERT
 
-This project applies Deep Embedded Clustering (DEC) to extract meaningful topic clusters from the AG News dataset using sentence-level BERT embeddings. It integrates UMAP for dimensionality reduction and visualizes the results with PCA. The final model achieves a Silhouette Score of 60.74%, demonstrating strong unsupervised clustering performance.
+This project applies Deep Embedded Clustering (DEC) to extract meaningful topic clusters from the AG News dataset using sentence-level BERT embeddings. It integrates UMAP for dimensionality reduction and visualizes the results with PCA. The final model achieves a Silhouette Score of f 63.87%, demonstrating strong unsupervised clustering performance.
 
 
 📂 Features
